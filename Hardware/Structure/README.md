@@ -16,11 +16,13 @@ Parts of the mechanical design have been designed and assembled using Solidworks
  
  ## 2. Parts
  The main parts of the structure are summarised below:
- ### * Carroussel: to hold the paints
+ ### * Carroussel: 
+ To hold the paints
  <p align="left">
  <img src="https://github.com/Pschiee/Perfect-Colour/blob/master/Hardware/Images/Carousel%20assembly.JPG"
       title="Caroussel Assembly" width="140" height="170" ></a></p>
- * Main structure: Table shaped. Holds the caroussel. The linear actuator that pushes the paint out, the motor that spins the caroussel. Originally designed as a frame, but will be manufactured as a table for ease.
+ #### * Main structure: 
+ Table shaped. Holds the caroussel. The linear actuator that pushes the paint out, the motor that spins the caroussel. Originally designed as a frame, but will be manufactured as a table for ease.
 <p align="left">
  <img src="https://github.com/Pschiee/Perfect-Colour/blob/master/Hardware/Images/Carousel%20assembly.JPG" 
 title="Perfect Colour" width="100" height="130" ></a></p>

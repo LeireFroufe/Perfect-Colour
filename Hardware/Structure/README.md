@@ -3,7 +3,7 @@
 Parts of the mechanical design have been designed and assembled using Solidworks. 
 <p align="left">
  <img src="https://github.com/Perfect-Colour/Perfect-Colour/blob/master/Perfect_Colour_Logo_01.png" 
-	 title="Perfect Colour" width="100" height="100" ></a></p>
+	 title="Perfect Colour" width="100" height="130" ></a></p>
 	 
 ## Contents
  1. Design Description
@@ -31,5 +31,5 @@ Parts of the mechanical design have been designed and assembled using Solidworks
  ## 4. Preview
 <p align="left">
  <img src="https://github.com/Pschiee/Perfect-Colour/blob/master/Hardware/Images/Final%20Structure%20nice%20angle.JPG"
-      title="Final Assembly" width="500" height="500" ></a></p>
+      title="Final Assembly" width="450" height="500" ></a></p>
       

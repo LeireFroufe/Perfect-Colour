@@ -16,7 +16,7 @@ Parts of the mechanical design have been designed and assembled using Solidworks
  
  ## 2. Parts
  The main parts of the structure are summarised below:
- * Carroussel: to hold the paints
+ ### * Carroussel: to hold the paints
  <p align="left">
  <img src="https://github.com/Pschiee/Perfect-Colour/blob/master/Hardware/Images/Carousel%20assembly.JPG"
       title="Caroussel Assembly" width="140" height="170" ></a></p>

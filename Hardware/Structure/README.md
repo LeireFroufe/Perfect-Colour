@@ -23,8 +23,9 @@ Parts of the mechanical design have been designed and assembled using Solidworks
  * Main structure: Table shaped. Holds the caroussel. The linear actuator that pushes the paint out, the motor that spins the caroussel. Originally designed as a frame, but will be manufactured as a table for ease.
 <p align="left">
  <img src="https://github.com/Pschiee/Perfect-Colour/blob/master/Hardware/Images/Carousel%20assembly.JPG" 
-title="Perfect Colour" width="100" height="100" ></a></p>
+title="Perfect Colour" width="100" height="130" ></a></p>
  * Syringes: Five 30ml syringes holding the five colours
+ 
  * Attachment parts: In order to atach the caroussel to the spinning motor, the motor to the main structure, the actuator to the main structure.
  
  ## 3. Manufacturing
